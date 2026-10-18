@@ -18,7 +18,7 @@ Open the latest release and download the file for your computer from its **Asset
 | Windows (x64)          | `Sentra-Works-<version>-x64.exe`         |
 | Linux (x64)            | `Sentra-Works-<version>-x86_64.AppImage` |
 
-Forge, Sentra Slides, and Computer use need a Mac with Apple silicon.
+Forge and Sentra Slides need a Mac with Apple silicon.
 
 Until the installers are signed:
 
